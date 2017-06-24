@@ -10,7 +10,7 @@
   
   Twitter:@DamaneDz
   
-  P.S: If The Tool Will Not Work Good Try To Crypt IT
+  P.S: If The Tool Won't Work Good Try To Crypt IT (USE a PHP Obfuscator) 
   
   The Last Update:27/04/2013
   
@@ -24,14 +24,13 @@
     2-Coloring Some Results
     -----------
     20/04/2013:
-    1-Checking For Existing Of Some Functions(passthru-exec-system-shell_exec-symlink-eval-...)
-    2-For Security Reason I've Used strrev for each of these functions: passthru-exec-system-shell_exec
-    3-Regonize The Info to Categories
-    4-Add Safe_mode_exec_dir and Safe_mode_include_dir
+    1-Check if Some functions exists and not blacklisted (passthru-exec-system-shell_exec-symlink-eval-...)
+    2-To ByPass Some WAF I Used strrev for each of these functions: passthru-exec-system-shell_exec
+    3-Add Safe_mode_exec_dir and Safe_mode_include_dir
     -----------
     25/04/2013:
     1-Advanced Options Category Added
-    2-Run Command Option Added to The Advanced Options Categories
+    2-Run Command Option Added to The Advanced Options Category
     -----------
     27/04/2013:
-    1-Uploading File Option Add to The Advanced Options Categories
+    1-Uploading File Option Added to The Advanced Options Category
