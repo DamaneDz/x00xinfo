@@ -1,6 +1,6 @@
 # x00x Server info
 
-  This File Was Writed By DamaneDz.
+  This File Was Written By DamaneDz.
   
   all The Copyright Are To Me And x00x Projects
   
