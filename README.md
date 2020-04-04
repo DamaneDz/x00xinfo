@@ -1,10 +1,15 @@
 # x00x Server info
 
 For Educational Purpose Only 
+
 Use This Script For Your Own Risques
+
 Twitter:@DamaneDz
+
 P.S: If The Tool Won't Work Good Try To Crypt IT (USE a PHP Obfuscator) 
+
 The Last Update:27/04/2013
+
   
   ![x00xinfo screenshot](https://image.prntscr.com/image/5mxFzE6_Qbey1V5jU3Saiw.png)
   ![x00xinfo screenshot](https://image.prntscr.com/image/lAIO_qO2TI6ILzRx3XF9ZQ.png)
